@@ -1,0 +1,10 @@
+streamlit
+xarray
+netcdf4
+h5netcdf
+pandas
+numpy
+plotly
+h5py
+scipy
+cftime

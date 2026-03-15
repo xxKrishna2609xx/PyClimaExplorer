@@ -1,0 +1,33 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.so
+*.dll
+*.log
+
+# Environments
+.venv/
+venv/
+.env/
+.envrc
+
+# IDE/OS
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+
+# Streamlit
+.streamlit/
+
+# Data artifacts
+datasets/*.nc
+datasets/*.tar
+datasets/*.tgz
+datasets/*.gz
+
+# Cache
+*.cache
+data/**/.ipynb_checkpoints/
